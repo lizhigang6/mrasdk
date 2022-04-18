@@ -1,0 +1,6 @@
+framework module OXSaiSDK {
+  umbrella header "OXSaiSDK.h"
+
+  export *
+  module * { export * }
+}
